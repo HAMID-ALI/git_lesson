@@ -1,6 +1,6 @@
-def my_square(n):
+def my_square(x):
  """ Adding documentation to my function.
  """
- return(n**2)
+ return(x**2)
 
-print(my_square(4))
+print(my_square(25))
